@@ -1,2 +1,2 @@
-# Algoritmo
+# Algoritmos
 Trabalhos desenvolvidos em sala de aula
